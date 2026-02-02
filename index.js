@@ -83,8 +83,8 @@ if(flag){
                 console.log(`
                     Thông báo:
                     Tổng số lượng mã sách đã nhập: ${total}
-                    Có số mã số là số chẵn là: ${evenId}
-                    Có số mã số là số lẻ là: ${oddId}
+                    Có số mã số là số chẵn (Sách khoa học) là: ${evenId}
+                    Có số mã số là số lẻ (Sách nghệ thuật) là: ${oddId}
                 `);
                 
                 break;    
